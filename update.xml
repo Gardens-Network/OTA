@@ -277,6 +277,15 @@
 
     <!-- MOTOROLA -->
     <manufacturer id="Motorola">
+        <athene>
+            <maintainer>fuyukihidekii</maintainer>
+            <devicename>Moto G4 Plus</devicename>
+            <filename>crDroid-9.0-202007-athene-v5.12</filename>
+            <buildtype>Weekly</buildtype>
+            <download>https://pilotfiber.dl.sourceforge.net/project/motog4-global/crDroid/crDroidAndroid-9.0-20200708-athene-v5.12.zip</download>
+            <gapps>https://bitgapps.github.io</gapps>
+        </athene>
+    	
         <ocean>
             <maintainer></maintainer>
             <devicename>Moto G7 Power</devicename>
