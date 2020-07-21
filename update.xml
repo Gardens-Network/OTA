@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+Oi<?xml version="1.0" encoding="UTF-8"?>
 <!--
      Copyright (C) 2016-2020 crDroid Android Project
 
@@ -280,9 +280,9 @@
         <athene>
             <maintainer>fuyukihidekii</maintainer>
             <devicename>Moto G4 Plus</devicename>
-            <filename>crDroid-9.0-20200718-athene-v5.12</filename>
+            <filename>crDroid-9.0-20200721-athene-v5.12</filename>
             <buildtype>Weekly</buildtype>
-            <download>https://pilotfiber.dl.sourceforge.net/project/motog4-global/crDroid/crDroidAndroid-9.0-20200718-athene-v5.12.zip</download>
+            <download>https://pilotfiber.dl.sourceforge.net/project/motog4-global/crDroid/crDroidAndroid-9.0-20200721-athene-v5.12.zip</download>
             <gapps>https://bitgapps.github.io</gapps>
         </athene>
     	
